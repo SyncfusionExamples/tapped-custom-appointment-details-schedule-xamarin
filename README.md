@@ -1,2 +1,1 @@
-# tapped-custom-appointment-details-schedule-xamarin
-How to get the tapped custom appointment details in Xamarin.Forms Schedule (SfSchedule)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12201/how-to-get-the-tapped-custom-appointment-details-in-xamarin-forms-schedule-sfschedule)**
